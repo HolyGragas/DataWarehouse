@@ -1,0 +1,7 @@
+- Lack of relations between entities for example: DWT_BRANCH_2.BUYS and DWT_BRANCH_2.PRODUCT. More forgein keys should be used. 
+- Some entity attributes are Oracle Reserved Words, and these should be avoide like DATE , SIZE .
+- Some entities are unnecessary e.g. entity place in DWT_BRANCH_2.
+- Inconsistency amongst branch entities.
+- Certain attributes are not clearly defined e.g.KC in DW_BRANCH_6.ORDERS.
+- 4 Primary key in DWT_BRANCH_2.BUYS is a problem . 
+
